@@ -1,0 +1,14 @@
+Package: cc.astro420.bettergram
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Astro <aztrobusiness@gmail.com>
+Depends: instagram
+Filename: /BetterGram.deb
+Size: 2248
+MD5sum: bd8bab2b6cea1960a22f2b0fdf58dafe
+SHA1: 1eb6aa6f9283484ffb16f79f5027bd203daadffc
+SHA256: d6bfa2803f66abb4d7498b59529c2d487b625d2056f52a0218afa4cd3eb9e54f
+Section: Tweaks
+Description: Do magic shit
+Author: Astro <aztrobusiness@gmail.com>
+Name: BetterGram
