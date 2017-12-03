@@ -2,7 +2,6 @@ Package: cc.astro420.bettergram
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: Astro <aztrobusiness@gmail.com>
-Depends: instagram
 Filename: /BetterGram.deb
 Size: 2248
 MD5sum: bd8bab2b6cea1960a22f2b0fdf58dafe
